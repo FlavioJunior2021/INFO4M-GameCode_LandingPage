@@ -10,11 +10,11 @@ export function Cards(){
 			<div className='gap-4 flex flex-col'>
 				<div className="w-[260px] h-[340px] bg-[#F1C9FF] flex items-center justify-center flex-col p-4">
 					<img src={meias} alt="" />
-					<button className='shadow-custom w-[160px] h-[40px] bg-white'>PAR DE MEIAS</button>
+					<button className='shadow-custom w-[210px] h-[40px] bg-white'>PAR DE MEIAS</button>
 				</div>
 				<div className="w-[260px] h-[340px] bg-[#9F00D7] flex items-center justify-center flex-col p-4">
 					<img src={chaveiro} alt="" />
-					<button className='shadow-custom w-[170px] h-[40px] bg-white'>CHAVEIRO FLIPERAMA</button>
+					<button className='shadow-custom w-[210px] h-[40px] bg-white'>CHAVEIRO FLIPERAMA</button>
 				</div>
 				<div className="w-[260px] h-[340px] bg-[#DE98FF] flex items-center justify-center flex-col p-4">
 					<img src={camisa} alt="" />
@@ -22,7 +22,7 @@ export function Cards(){
 				</div>
 				<div className="w-[260px] h-[340px] bg-[#FFFFFF] flex items-center justify-center flex-col p-4">
 					<img src={copo} alt="" />
-					<button className='shadow-custom w-[210px] h-[40px] bg-white'>CAMISA MORTAL KOMBAT</button>
+					<button className='shadow-custom w-[210px] h-[40px] bg-white'>COPO XBOX</button>
 				</div>
 			</div>
 		</div>

@@ -4,7 +4,7 @@ import justdance from '../../assets/justdance.png'
 
 export function BrowseGamesSection(){
 	return(
-		<div className="h-[296px] flex flex-col text-center items-center pt-">
+		<div className="h-[296px] flex flex-col text-center items-center justify-between pt-[26px]">
 			<div className="">
 				<h1 className="text-[40px] text-white">
 					Inscrições por<br/>
@@ -25,6 +25,11 @@ export function BrowseGamesSection(){
 					</div>
 				</div>
 			</div>
+			<button className='bg-[#C845F6] bg-gradient-to-r from-pink-500 via-transparent to-transparent rounded-sm text-white mt-[68px] font-semibold text-[20px] inline-flex h-[50px] p-0 px-[48px] py-0 justify-center items-center gap-10 flex-shrink-0'>
+				<a href="https://forms.gle/MJmRkj6YGwGfvNPfA" target='_blank'>
+					LINK PARA INSCRIÇÂO
+				</a>
+			</button>
 		</div>
 	)
 }

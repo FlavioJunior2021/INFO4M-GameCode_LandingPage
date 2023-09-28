@@ -4,7 +4,7 @@ import justdance from '../../assets/justdance.png'
 
 export function BrowseGamesSection(){
 	return(
-		<div className="h-[296px] flex flex-col text-center items-center justify-between pt-[26px]">
+		<div className="h-[296px] flex flex-col text-center items-center pt-[26px]">
 			<div className="">
 				<h1 className="text-[40px] text-white">
 					Inscrições por<br/>

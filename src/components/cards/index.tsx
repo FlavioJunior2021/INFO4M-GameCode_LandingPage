@@ -10,7 +10,7 @@ export function Cards(){
 			<div className='gap-4 flex flex-col'>
 				<div className="w-[260px] h-[340px] bg-[#F1C9FF] flex items-center justify-center flex-col p-4">
 					<img src={meias} alt="" />
-					<button className='shadow-custom w-[210px] h-[40px] bg-white'>PAR DE MEIAS</button>
+					<button className='shadow-custom-[210px] h-[40px] bg-white'>PAR DE MEIAS</button>
 				</div>
 				<div className="w-[260px] h-[340px] bg-[#9F00D7] flex items-center justify-center flex-col p-4">
 					<img src={chaveiro} alt="" />
